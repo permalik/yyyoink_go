@@ -1,5 +1,6 @@
 {
     "first_name": "kyler",
     "last_name": "nguyen",
-    "age": 25
+    "age": 25,
+    "hot": true
 }
